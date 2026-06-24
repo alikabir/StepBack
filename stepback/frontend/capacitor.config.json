@@ -1,0 +1,15 @@
+{
+  "appId": "com.stepback.app",
+  "appName": "StepBack",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#0f0f0f",
+      "showSpinner": false
+    }
+  }
+}

@@ -1,0 +1,4 @@
+android/
+frontend.log
+node_modules/
+.vercel-local/

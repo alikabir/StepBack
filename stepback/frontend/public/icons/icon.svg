@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="StepBack app icon">
+  <rect width="512" height="512" rx="112" fill="#0f0f0f"/>
+  <circle cx="256" cy="256" r="176" fill="#4ecdc4" opacity="0.16"/>
+  <circle cx="256" cy="256" r="124" fill="#4ecdc4"/>
+  <path fill="#052522" d="M298 161c27 9 47 31 53 60h-56c-5-11-16-18-32-18-21 0-34 9-34 23 0 16 19 21 46 28 43 11 85 25 85 75 0 48-39 78-96 78-54 0-94-25-104-72h58c7 16 23 24 47 24 22 0 37-8 37-24 0-14-17-20-46-28-42-11-83-26-83-77 0-40 28-68 73-75v-43h54v49z"/>
+</svg>
