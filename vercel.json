@@ -1,0 +1,11 @@
+{
+  "installCommand": "npm --prefix MindCareAI-Smart_Mental_Health_Counselling_SystemUsing_Multimodal_AI-main/frontend install",
+  "buildCommand": "npm --prefix MindCareAI-Smart_Mental_Health_Counselling_SystemUsing_Multimodal_AI-main/frontend run build",
+  "outputDirectory": "MindCareAI-Smart_Mental_Health_Counselling_SystemUsing_Multimodal_AI-main/frontend/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}

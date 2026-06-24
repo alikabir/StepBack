@@ -1,0 +1,26 @@
+{
+  "project": "MindCareAI",
+  "recommended_repo_type": "dataset",
+  "recommended_repo_id": "alikabir/mindcareai-resources",
+  "local_archives": [
+    {
+      "path": "C:/Users/alika/Downloads/MindCareAI_Resources.zip",
+      "size_bytes": 3136191109,
+      "description": "Large model-training and pretrained model resources. Keep on Hugging Face, not GitHub."
+    },
+    {
+      "path": "C:/Users/alika/Downloads/MindCareAIextended.zip",
+      "size_bytes": 15187612,
+      "description": "Extended project source and assets archive."
+    }
+  ],
+  "backend_model_targets": [
+    "backend/Pre-trained_Models/Step1_Behaviour/Best_Mental_Behaviour_Model.pkl",
+    "backend/Pre-trained_Models/Step1_Behaviour/Model_Encoders.pkl",
+    "backend/Pre-trained_Models/Step3_Face/Resnet_model_version_2.keras",
+    "backend/Pre-trained_Models/Step4_Voice/CNN_model.json",
+    "backend/Pre-trained_Models/Step4_Voice/CNN_model.weights.h5",
+    "backend/Pre-trained_Models/Step4_Voice/encoder2.pickle",
+    "backend/Pre-trained_Models/Step4_Voice/scaler2.pickle"
+  ]
+}
